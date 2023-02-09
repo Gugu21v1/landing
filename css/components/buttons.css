@@ -5,4 +5,10 @@
   padding: 16px 36px;
   background-color: #1EDD88;
   border-radius: 50px;
+  transition: all 0.4s ease-out;
+  border: 1px solid black;
+}
+
+.btn-green:hover {
+  scale: 0.95;
 }
